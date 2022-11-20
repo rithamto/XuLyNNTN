@@ -1,0 +1,101 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&family=Roboto+Mono:wght@400;600;700&display=swap');
+
+   /* font-family: 'Open Sans', sans-serif; */
+
+  /* font-family: 'Roboto Mono', monospace; */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.4;
+    width: 100%;
+    
+}
+
+.container {
+    width: 70%;
+    padding: 2rem 0;
+    margin: 0 auto;
+}
+
+.title {
+    font-size: 26px;
+    text-transform: capitalize;
+    text-align: center;
+}
+h1 span {
+    display: block;
+}
+.hightlight {
+    background-color: blueviolet;
+    color: white;
+    text-transform: uppercase;
+}
+
+.form-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+
+}
+
+.form-container > * {
+    width: calc(100% / 2 - 50px);
+    min-height: 366px;
+}
+.input-container {
+    padding: 20px 0;
+}
+.input-container label {
+    font-size: 15px;
+    margin-bottom: 5px;
+
+}
+.input-container textarea {
+    padding-left: 5px;
+    padding-top: 5px;
+    font-size: 16px;
+    text-transform: none;
+
+}
+.input-container > * {
+    display: block;
+    text-transform: capitalize;
+    width: 100%;
+}
+
+.btn {
+    background-color: blueviolet;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    padding: 10px 25px;
+    margin-top: 30px;
+    transition: .3s;
+}
+.btn:hover {
+    background-color: rgb(77, 26, 126);
+}
+
+.form-left {
+    position: relative;
+}
+.form-left::after{
+    content: '⇒';
+    display: block;
+    font-size: 50px;
+    color: blueviolet;
+    position: absolute;
+    top: 30%;
+    right: -68px;
+}
+
+.giathiet {
+    min-height: 100px;
+}

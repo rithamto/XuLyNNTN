@@ -1,0 +1,6 @@
+diện tích chu vi tam giác [A-Z][A-Z][A-Z]>Diện tích tam giác 1,Chu vi tam giác 1;
+diện tích chu vi hình chữ nhật [A-Z][A-Z][A-Z][A-Z]>Diện tích hình chữ nhật 1,Chu vi hinh hình chữ nhật 1;
+diện tích chu vi hình vuông [A-Z][A-Z][A-Z][A-Z]>Diện tích hình vuông 1,Chu vi hinh hình vuông 1;
+diện tích chu vi hình thoi [A-Z][A-Z][A-Z][A-Z]>Diện tích hình thoi 1,Chu vi hinh hình thoi 1;
+diện tích chu vi hình bình hành [A-Z][A-Z][A-Z][A-Z]>Diện tích hình bình hành 1,Chu vi hinh hình bình hành 1;
+diện tích chu vi hình bình hành [A-Z][A-Z][A-Z][A-Z]>Diện tích hình bình hành 1,Chu vi hinh hình bình hành 1;

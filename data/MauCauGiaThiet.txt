@@ -1,0 +1,10 @@
+[A-Z] [A-Z] lần lượt là trung điểm của [A-Z][A-Z] [A-Z][A-Z]>0 là trung điểm của 2,1 là trung điểm của 3;
+[A-Z] nằm giữa [A-Z] [-\s] [A-Z]>0 nằm giữa 1,2;
+[A-Z][A-Z] là tia phân giác của góc [A-Z][A-Z][A-Z]>0 là tia phân giác của Góc(1);
+[Tt]ia [A-z][A-z] nằm giữa [Tt]ia [A-Z][A-z] [-\s] [Tt]ia [A-Z][A-z]>0 nằm giữa Tia(1), Tia(2);
+[Tt]ia [A-Z][A-z] là tia phân giác của [Gg]óc [A-Z][A-Z][A-Z]>Tia 0 là phân giác của Góc(1);
+[A-Z] là giao điểm của [Tt]ia [A-Z][A-z] - [A-Z][A-Z]>0 là giao điểm của Tia(1) và đoạn(2);
+[A-Z][A-Z] [-\s] [A-Z][A-Z] cắt nhau tại [A-Z]>2 là giao điểm của 0, 1;
+đường tròn tâm O R>đường tròn tâm O bán kính R;
+[A-Z][A-Z] [/*-+] [A-Z][A-Z] = [A-Z][A-Z]>0 + 1 = 2;	
+[0-9][A-Z][A-Z] [/*-+] [0-9][A-Z][A-Z] = [0-9][A-Z][A-Z]>0 + 1 = 2;	
